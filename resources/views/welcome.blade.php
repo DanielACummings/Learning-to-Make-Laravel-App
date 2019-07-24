@@ -3,7 +3,7 @@
 	<head>
 		<meta charset="utf-8">
 		<meta name="viewport" content="width=device-width, initial-scale=1">
-		<title>Hello Bulma!</title>
+		<title>Laravel</title>
 		<link rel="stylesheet"
         href="https://cdnjs.cloudflare.com/ajax/libs/bulma/0.7.0/css/bulma.min.css">
 		<script defer src="https://use.fontawesome.com/releases/v5.0.7/js/all.js"></script>
@@ -40,7 +40,7 @@
                             </figure>
                             <div class="media-content">
                                 <div class="content">
-                                    <h1 class="title is-size-4">Lorem</h1>
+                                    <h1 class="title is-size-4">Projects</h1>
                                     <p class="is-size-5">
                                         Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam iusto odit quis magnam temporibus aut deleniti nobis eveniet totam, fugit provident, ex tenetur eaque blanditiis corporis natus recusandae delectus dolore!
                                     </p>
@@ -57,7 +57,7 @@
                             </figure>
                             <div class="media content">
                                 <div class="content">
-                                    <h1 class="title is-size-4">Ipsum</h1>
+                                    <h1 class="title is-size-4">Blog</h1>
                                     <p class="is-size-5">
                                         Lorem ipsum dolor sit, amet consectetur adipisicing elit. Dolorem, omnis odio eligendi fuga doloribus, quod harum necessitatibus sint aspernatur aliquid amet unde? Libero voluptatem nemo quibusdam quasi nihil deserunt minima.
                                     </p>
