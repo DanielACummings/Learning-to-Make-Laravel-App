@@ -19,6 +19,10 @@ Route::get('/blog', function () {
     return view('blog');
 });
 
+Route::get('/launch', function () {
+    return view('launch');
+});
+
 Route::resource('projects', 'ProjectsController');
 
 Route::post('/projects/{project}/tasks', 'ProjectTasksController@store');
